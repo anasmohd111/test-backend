@@ -5,9 +5,7 @@
 This project is a **Machine Test for Order Management System**.
 The backend is built using **Node.js** and **MongoDB**.
 
-The system manages products, manufacturers, sellers, customers, and orders.
-Products can have statuses such as **in stock, out of stock, or faulty**.
-Either **manufacturers or sellers can update the product status**.
+The system manages **products, manufacturers, sellers, customers, and orders**.
 
 When the server starts (`node index.js`), the application automatically creates the required collections and inserts initial data if they do not exist.
 
